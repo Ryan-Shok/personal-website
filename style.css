@@ -294,3 +294,35 @@ h2:last-of-type + ul li {
   opacity: 0.25;
 }
 
+.contact-form {
+  max-width: 500px;
+  margin-top: 1.5rem;
+
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 0.7rem;
+  border-radius: 8px;
+  border: 1px solid rgba(2, 42, 42, 0.25);
+  font-size: 0.95rem;
+}
+
+.contact-form button {
+  align-self: flex-start;
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  border: none;
+
+  background-color: #11a298;
+  color: #070c14;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.contact-form button:hover {
+  background-color: #0e8f86;
+}
