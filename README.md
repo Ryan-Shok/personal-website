@@ -1,1 +1,1 @@
-Simple portfolio website serving as a brief introduction to my career. Hosted on netlify: [(https://ryan-shokrpour.netlify.app/)](url)
+Simple personal website serving as a portfolio and brief introduction to my career. Hosted on netlify: [Portfolio](https://ryan-shokrpour.netlify.app/)
